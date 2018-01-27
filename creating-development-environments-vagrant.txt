@@ -1,0 +1,8 @@
+vagrant commands:
+-----------------
+
+#list all subcommands
+vagrant list-commands
+
+#get version
+vagrant -v 
